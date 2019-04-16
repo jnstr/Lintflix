@@ -43,6 +43,13 @@ messages=(
     "Star Linter: The Last Warning"
     "Star Linter: The Rise of Warnings"
     "Gone With the Lint"
+    "Fantastic Lints and Where to Find Them"
+    "Despicable Lint"
+    "Lint Runner"
+    "Linting Nemo"
+    "The Linter Games"
+    "The Twilint Saga: Breaking Down"
+    "The Wolf of Lint Street"
 )
 
 git commit -m ":rotating_light: ${messages[$RANDOM % ${#messages[@]} ]}"
