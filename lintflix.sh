@@ -28,4 +28,4 @@ messages=(
     "Silver Lintings Playbook"
 )
 
-git commit -m ":rotating_light: ${messages[$RANDOM % ${#messages[@]} ]} :cinema:"
+git commit -m ":rotating_light: ${messages[$RANDOM % ${#messages[@]} ]}"
