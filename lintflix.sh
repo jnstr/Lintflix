@@ -26,6 +26,8 @@ messages=(
     "Lintception"
     "Lintin' in the Rain"
     "Silver Lintings Playbook"
+    "The Lintrix"
+    "Fifty Shades of Linting"
 )
 
 git commit -m ":rotating_light: ${messages[$RANDOM % ${#messages[@]} ]} :cinema:"
