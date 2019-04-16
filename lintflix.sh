@@ -34,7 +34,7 @@ messages=(
     "The Fellowship of the Linter"
     "The Return of the Linter"
     "Star Linter: A New Warning"
-    "Star Linter: The Warnings strikes back"
+    "Star Linter: The Warnings strike back"
     "Star Linter: Return of the Warnings"
     "Star Linter: The Warning Menace"
     "Star Linter: Attack of the Warnings"
@@ -52,6 +52,11 @@ messages=(
     "The Wolf of Lint Street"
     "How I Lint Your Mother"
     "Alice in Wonderlint"
+    "Snow White and the Linting Dwarfs"
+    "Willy Wonka and the Linting Factory"
+    "The Linting Mermaid"
+    "The Lintcredibles"
+    "Stuart Lintle"
 )
 
 git commit -m ":rotating_light: ${messages[$RANDOM % ${#messages[@]} ]}"
