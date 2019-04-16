@@ -17,4 +17,4 @@ A shell utility to commit the staged changes using a movie or tv-show inspired m
 > lintflix
 ```
 
-A new commit is created (e.g. `🚨 James Bond - Lint Another Day 🎦`)
+A new commit is created (e.g. `🚨 James Bond - Lint Another Day`)
