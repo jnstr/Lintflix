@@ -30,6 +30,8 @@ messages=(
     "Linting Begins"
     "The Dark Linter"
     "The Dark Linter Returns"
+    "The Fellowship of the Linter"
+    "The Return of the Linter"
 )
 
 git commit -m ":rotating_light: ${messages[$RANDOM % ${#messages[@]} ]} :cinema:"
