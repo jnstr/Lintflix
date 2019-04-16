@@ -7,7 +7,7 @@ A shell utility to commit the staged changes using a movie or tv-show inspired m
 1. Clone this repository
 2. cd into the project directory
 3. `chmod +x lintflix.sh`
-4. `sudo cp lintflix.sh /usr/bin/lintflix`
+4. `ln -s "$(pwd)/lintflix.sh" /usr/local/bin/lintflix`
 
 ## Usage
 
