@@ -50,6 +50,7 @@ messages=(
     "The Linter Games"
     "The Twilint Saga: Breaking Down"
     "The Wolf of Lint Street"
+    "How I Lint Your Mother"
 )
 
 git commit -m ":rotating_light: ${messages[$RANDOM % ${#messages[@]} ]}"
