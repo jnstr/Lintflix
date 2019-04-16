@@ -2,6 +2,12 @@
 
 A shell utility to commit the staged changes using a movie or tv-show inspired message.  
 
+## Why?
+
+I tend to make mistakes against the style guide so I create linting commits on a regular base. I don't like boring messages so I thought it would be fun to add movie & tv-show inspired messages, slightly adjusted to have the word "lint" somewhere.
+
+Inspired by https://github.com/fowbi/lint-along
+
 ## Installation
 
 1. Clone this repository
