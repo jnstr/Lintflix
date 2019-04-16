@@ -28,7 +28,7 @@ messages=(
     "Silver Lintings Playbook"
     "The Lintrix"
     "Fifty Shades of Linting"
-    "Linting Begins"
+    "Batman Belints"
     "The Dark Linter"
     "The Dark Linter Returns"
     "The Fellowship of the Linter"
