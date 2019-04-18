@@ -57,6 +57,13 @@ messages=(
     "The Linting Mermaid"
     "The Lintcredibles"
     "Stuart Lintle"
+    "The 40-Year-Old Linter"
+    "Monty Python and the Holy Linter"
+    "Austin Powers: International Lint of Mystery"
+    "Ace Ventura: Lint Detective"
+    "Beverlint Hills Cop"
+    "The Lint Panther"
+    "21 Lint Street"
 )
 
 git commit -m ":rotating_light: ${messages[$RANDOM % ${#messages[@]} ]}"
