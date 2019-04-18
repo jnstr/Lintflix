@@ -29,8 +29,6 @@ messages=(
     "The Lintrix"
     "Fifty Shades of Linting"
     "Batman Belints"
-    "The Dark Linter"
-    "The Dark Linter Returns"
     "The Fellowship of the Linter"
     "The Return of the Linter"
     "Star Linter: A New Warning"
