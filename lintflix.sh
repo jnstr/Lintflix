@@ -58,6 +58,13 @@ messages=(
     "Monty Python and the Holy Linter"
     "Austin Powers: International Lint of Mystery"
     "Ace Ventura: Lint Detective"
+    "Harry Potter and the Philosopher's Linter"
+    "Harry Potter and the Chamber of Linters"
+    "Harry Potter and the Linter of Azkaban"
+    "Harry Potter and the Linter of Fire"
+    "Harry Potter and the Order of the Linter"
+    "Harry Potter and the Half-Blood Linter"
+    "Harry Potter and the Deathly Linters"
 )
 
 git commit -m ":rotating_light: ${messages[$RANDOM % ${#messages[@]} ]}"
