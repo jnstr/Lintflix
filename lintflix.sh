@@ -66,6 +66,7 @@ messages=(
     "Harry Potter and the Half-Blood Linter"
     "Harry Potter and the Deathly Linters"
     "Avengers: Lintgame"
+    "Game Of Thrones: A Song of Lint and Fire" 
 )
 
 git commit -m ":rotating_light: ${messages[$RANDOM % ${#messages[@]} ]}"
